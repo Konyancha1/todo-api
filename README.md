@@ -6,7 +6,6 @@
 * MongoDB
 
 ## The API will handle the following:
-* Create a new task with a title property and a boolean determining whether the task has been completed. A new unique id would be created for each new task
 * List all tasks created
 * Get a specific task
 * Delete a specified task
